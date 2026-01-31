@@ -48,10 +48,4 @@ Dari eksperimen yang dilakukan dalam notebook ini, ditemukan bahwa faktor-faktor
 3.  Jalankan file notebook:
     `final-project-mechine-learning.ipynb`
 
-## 👤 Identitas Penulis
-* **Nama:** [Tulis Nama Lengkap Anda]
-* **NIM:** [Tulis NIM Anda]
-* **Prodi:** Teknik Informatika
-
----
 *Project ini diajukan untuk memenuhi syarat penilaian akhir semester Genap 2025-2026.*
